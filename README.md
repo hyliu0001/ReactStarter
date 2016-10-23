@@ -17,6 +17,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 	> cd ReactStarter
 	> npm install
 	> gulp
+	> npm install --save react-router@1.0.3 history
 ```
 
 ####Not Familiar with Git?#####
